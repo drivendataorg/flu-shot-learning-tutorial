@@ -8,6 +8,8 @@ This repository contains materials for the ["Predicting Flu Vaccination: An Intr
 >
 > As part of Good Tech Fest, DrivenData will have a special community leaderboard for conference participants. We encourage everyone to take a shot at this competition and see how your submission stacks up. We are also looking for speakers for a lightning talk session to share out your work on the competition.
 
+If you are participating through the conference, please join the`#drivendata-challenge` and `#predictingfluvaccinationanintroductiontomachinelearning` Slack channels.
+
 ## Setting up
 
 ### Setting up this project
