@@ -20,11 +20,16 @@ To get this repository, the best way is to have `git` and use `git clone`:
 git clone https://github.com/drivendataorg/flu-shot-learning-tutorial.git
 ```
 
+then to enter the project
+```bash
+cd flu-shot-learning-tutorial
+```
+
 This project is a simplified version of what is generated using [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/), a standardized structure we recommend for data science projects.
 
 ### Getting the data
 
-In access the data, please sign up for the [Flu Shot Learning competition on drivendata.org](https://www.drivendata.org/competitions/66/flu-shot-learning/). Then, you can find the data on the [data download page](https://www.drivendata.org/competitions/66/flu-shot-learning/data/).
+To access the data, please sign up for the [Flu Shot Learning competition on drivendata.org](https://www.drivendata.org/competitions/66/flu-shot-learning/). Then, you can find the data on the [data download page](https://www.drivendata.org/competitions/66/flu-shot-learning/data/).
 
 ### Setting up the environment
 
@@ -36,6 +41,14 @@ Virtual environments are important for creating reproducible analyses. One popul
 conda create -n flu-shot-learning-tutorial python=3.7
 conda activate flu-shot-learning-tutorial
 pip install -r requirements.txt
+```
+
+### Running the notebook
+
+The analysis is saved as a Jupyter notebook file. You can use [Jupyter Lab](https://jupyter.org/) to view and edit it:
+
+```bash
+jupyter lab
 ```
 
 ## Project Organization
