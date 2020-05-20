@@ -10,6 +10,8 @@ This repository contains materials for the ["Predicting Flu Vaccination: An Intr
 
 If you are participating through the conference, please join the`#drivendata-challenge` and `#predictingfluvaccinationanintroductiontomachinelearning` Slack channels.
 
+Note that in order to get the data, you should [sign up for the Flu Shot Learning competition](https://www.drivendata.org/competitions/66/flu-shot-learning/) on drivendata.org.
+
 ## Setting up
 
 ### Setting up this project
